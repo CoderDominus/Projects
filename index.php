@@ -66,18 +66,18 @@
         <h1>Descubra Seu Signo</h1>
         <div class="icon-container">
             <!-- Ícones dos signos (exemplo usando imagens locais ou URLs) -->
-            <img src="assets/imgs/aries.png" alt="Áries">
-            <img src="assets/imgs/taurus.png" alt="Touro">
-            <img src="assets/imgs/gemini.png" alt="Gêmeos">
-            <img src="assets/imgs/cancer.png" alt="Câncer">
-            <img src="assets/imgs/leo.png" alt="Leão">
-            <img src="assets/imgs/virgo.png" alt="Virgem">
-            <img src="assets/imgs/libra.png" alt="Libra">
-            <img src="assets/imgs/scorpio.png" alt="Escorpião">
-            <img src="assets/imgs/sagittarius.png" alt="Sagitário">
-            <img src="assets/imgs/capricorn.png" alt="Capricórnio">
-            <img src="assets/imgs/aquarius.png" alt="Aquário">
-            <img src="assets/imgs/pisces.png" alt="Peixes">
+            <img src="assets/imgs/Áries.png" alt="Áries">
+            <img src="assets/imgs/Touro.png" alt="Touro">
+            <img src="assets/imgs/Gêmeos.png" alt="Gêmeos">
+            <img src="assets/imgs/Câncer.png" alt="Câncer">
+            <img src="assets/imgs/Leão.png" alt="Leão">
+            <img src="assets/imgs/Virgem.png" alt="Virgem">
+            <img src="assets/imgs/Libra.png" alt="Libra">
+            <img src="assets/imgs/Escorpião.png" alt="Escorpião">
+            <img src="assets/imgs/Sagitário.png" alt="Sagitário">
+            <img src="assets/imgs/Capricórnio.png" alt="Capricórnio">
+            <img src="assets/imgs/Aquário.png" alt="Aquário">
+            <img src="assets/imgs/Peixes.png" alt="Peixes">
         </div>
         <form id="signo-form" method="POST" action="show_zodiac_sign.php">
             <div class="mb-3">
